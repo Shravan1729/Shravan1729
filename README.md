@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Shravan 👋
 
-<!--
-**Shravan1729/Shravan1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Master's student in Physics** passionate about **neutrino physics**, **theoretical high energy**, and the intersection of **machine learning and fundamental science**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 About Me
+
+- 🔬 Currently exploring the mysteries of **neutrino oscillations** and **neutrino mass hierarchy**
+- 🧠 Deeply interested in **AI/ML applications** in experimental physics
+- 🧰 Comfortable with tools like `Python`, `NumPy`, `Matplotlib`, and basic `C++`
+- 📍 Based in Kolkata, India
+
+---
+
+## 🚀 Research Interests
+
+- **Neutrino phenomenology** and long-baseline experiments  
+- **Event classification and reconstruction** using ML   
+- **Data analysis** in high energy physics  
+
+---
+
+## 🛠️ Projects I'm Working On / Interested In
+
+- Applying machine learning to neutrino event tagging  
+- Simulation-based inference in physics  
+- Learning frameworks like `scikit-learn`, `PyTorch`, `TensorFlow`
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](www.linkedin.com/in/shravan-ghosh-2392711a6) 
+- 📧 Email: shravan.ghosh.08@gmail.com
+- 🌐 Website: *coming soon*
+
+---
+
+> _"The universe is under no obligation to make sense to you."_ — Neil deGrasse Tyson  
