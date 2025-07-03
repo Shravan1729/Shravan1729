@@ -8,7 +8,7 @@ I'm a **Master's student in Physics** passionate about **neutrino physics**, **h
 
 - 🔬 Currently exploring the mysteries of **neutrino oscillations** and **neutrino mass hierarchy**
 - 🧠 Deeply interested in both **experimental** and **theoretical** aspects of neutrino physics
-- 🧰 Comfortable with tools like `Python`, `NumPy`, `Matplotlib`, and basic `C++`
+- 🧰 Comfortable with tools like `Python`, `ROOT`, `NumPy`, `Matplotlib`, and basic `C++`
 - 📍 Based in Kolkata, India
 
 ---
@@ -19,7 +19,7 @@ I'm a **Master's student in Physics** passionate about **neutrino physics**, **h
 - **Lepton number violation** and neutrinoless double beta decay
 - **Majorana nature of neutrinos** and its implications for BSM physics
 - **Neutrino phenomenology** in long-baseline and atmospheric experiments  
-- **Event classification and reconstruction** using ML   
+- **Event classification and reconstruction** using ML  
 
 ---
 
@@ -35,7 +35,9 @@ I'm a **Master's student in Physics** passionate about **neutrino physics**, **h
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shravan-ghosh-2392711a6/)
+- 🧠 [Blog](https://jtishravan.blogspot.com/)
 - 📧 Email: shravan.ghosh.08@gmail.com
+- 🐦 X (Twitter): [@ghosh_shravan](https://twitter.com/ghosh_shravan)
 - 🌐 Website: *coming soon*
 
 ---
