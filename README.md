@@ -32,7 +32,7 @@ I'm a **Master's student in Physics** passionate about **neutrino physics**, **t
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shravan-ghosh-2392711a6/)
-- 📧 Email: shravanghosh08@gmail.com
+- 📧 Email: shravan.ghosh.08@gmail.com
 - 🌐 Website: *coming soon*
 
 ---
