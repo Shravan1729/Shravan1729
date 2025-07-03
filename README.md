@@ -1,13 +1,13 @@
 # Hi, I'm Shravan 👋
 
-I'm a **Master's student in Physics** passionate about **neutrino physics**, **theoretical high energy**, and the intersection of **machine learning and fundamental science**.
+I'm a **Master's student in Physics** passionate about **neutrino physics**, **high energy experiments**, and the intersection of **machine learning and fundamental science**.
 
 ---
 
 ## 🧪 About Me
 
 - 🔬 Currently exploring the mysteries of **neutrino oscillations** and **neutrino mass hierarchy**
-- 🧠 Deeply interested in **AI/ML applications** in experimental physics
+- 🧠 Deeply interested in both **experimental** and **theoretical** aspects of neutrino physics
 - 🧰 Comfortable with tools like `Python`, `NumPy`, `Matplotlib`, and basic `C++`
 - 📍 Based in Kolkata, India
 
@@ -15,15 +15,18 @@ I'm a **Master's student in Physics** passionate about **neutrino physics**, **t
 
 ## 🚀 Research Interests
 
-- **Neutrino phenomenology** and long-baseline experiments  
+- **Origin of neutrino mass** – Dirac vs. Majorana
+- **Lepton number violation** and neutrinoless double beta decay
+- **Majorana nature of neutrinos** and its implications for BSM physics
+- **Neutrino phenomenology** in long-baseline and atmospheric experiments  
 - **Event classification and reconstruction** using ML   
-- **Data analysis** in high energy physics  
 
 ---
 
 ## 🛠️ Projects I'm Working On / Interested In
 
 - Applying machine learning to neutrino event tagging  
+- Improving signal-background separation in detectors  
 - Simulation-based inference in physics  
 - Learning frameworks like `scikit-learn`, `PyTorch`, `TensorFlow`
 
@@ -37,4 +40,4 @@ I'm a **Master's student in Physics** passionate about **neutrino physics**, **t
 
 ---
 
-> _"The universe is under no obligation to make sense to you."_ — Neil deGrasse Tyson  
+> _"The universe is under no obligation to make sense to you."_ — Neil deGrasse Tyson
